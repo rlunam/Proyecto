@@ -1,0 +1,33 @@
+.card { 
+    background-color: #6C1D45;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.bg-green {
+    background: red;
+}
+
+.bg-red {
+    background: green;
+}
+.preguntas {
+    padding: 10px;
+}
+.boton {
+    background-color: #6C1D45;
+    color: #fff;
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+
+}
+.seccion {
+    margin: 0 auto;
+    background-color: green;
+    text-align: center;
+    margin-top: 10px;
+    color: #fff;
+}
