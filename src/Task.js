@@ -31,7 +31,7 @@ export function Seccion({ name }) {
 
 export function CheckboxConTexto({pregunta}) {
   return (
-    <div>
+    <div className="container">
       <label>
         <input type="checkbox"/>
         {pregunta}
